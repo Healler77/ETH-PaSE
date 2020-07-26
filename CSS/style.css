@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+    width: 80%;
+    margin: 5px auto;
+}
+nav{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    
+}
+nav a{
+    background-color: white;
+    margin-right: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+
+}
+#ban{
+    border-radius: 5px;
+}
+#main {
+    width: 100%;
+}
+
+#main .m1 {
+    background-color: seagreen;
+    margin: 5px;
+    width: 32%;
+    float: left;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+footer p {
+    background-color: skyblue;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.social a{
+    text-align: center;
+
+
+}
+#sociallinks{
+    background-color: royalblue;
+}
+#media {
+    width: 20%;
+    margin: 0 auto;
+}
